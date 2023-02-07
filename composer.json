@@ -65,7 +65,8 @@
     "repositories": [
         {
             "type": "path",
-            "url": "C:\\Users\\user\\Documents\\GitHub\\blog-package"
+            "url": "C:\\Users\\user\\Documents\\GitHub\\blog-package",
+            "symlink": "false"
         }
     ]
 }
